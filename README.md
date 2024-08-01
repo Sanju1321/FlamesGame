@@ -1,0 +1,2 @@
+# FlamesGame
+Python is a multipurpose language and one can do literally anything with it. Python can also be used for game development. Let’s create a simple FLAMES game without using any external game libraries like PyGame.FLAMES is a popular game named after the acronym: Friends, Lovers, Affectionate, Marriage, Enemies, Sibling. This game does not accurately predict whether or not an individual is right for you, but it can be fun to play this with your friends.
